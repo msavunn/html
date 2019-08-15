@@ -1,0 +1,7 @@
+<meta charset="UTF-8">
+<meta name="description" content="XHTML, HTML, HTML5, CSS">
+<meta name="keywords" content="XHTML, HTML, HTML5, CSS">
+<meta name="googlebot" content="noarchive">
+<meta name="robots" content="index,follow">
+<meta name="copyright" content="2018-2019 © Copyright | mustafasavun.com" >
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
